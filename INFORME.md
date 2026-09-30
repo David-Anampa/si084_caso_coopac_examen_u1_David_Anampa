@@ -6,7 +6,7 @@
 |---|---|
 | **Apellidos y nombres** | Anampa Pancca, David Jordan |
 | **Código de estudiante** | 2022074268 |
-| **URL del repositorio** | `https://github.com/David-Anampa/si084_caso_coopac_examen_u1_David_Anampa/tree/examen-u1` |
+| **URL del repositorio** | `https://github.com/David-Anampa/si084_caso_coopac_examen_u1_David_Anampa.git` |
 | **Fecha** | 2026-09-30 |
 
 ## 1. Resultados de los procedimientos
